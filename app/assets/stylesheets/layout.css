@@ -1,0 +1,60 @@
+/*@media only screen and (max_width: 959px) {}
+*@media only screen and (min_width: 768px) and (max_width: 959px) {}
+*@media only screen and (max_width: 767px) {}
+*@media only screen and (min_width: 480px) and (max_width: 767px) {}
+*@media only screen and (max_width: 479px) {}
+*/
+
+.container
+{
+	margin-top: 40px;
+}
+body h1,h2
+{
+	font-family: "HelveticaNeue-Light", "Helvetiva Neue Light","Helvetiva Neue" Helvetica, Arial, sans-serif;
+	font-weight: 300;
+}
+.intro
+{
+	font-family: Georgia, serif;
+	background: none repeat scroll 0 0 #da5d5c;
+	color: #fff;
+	border-bottom: 4px solid #bd403e;
+	padding: 5px;
+	font-size: 18px;
+	line-height: 1.5;
+}
+.post 
+{
+	border-bottom: 1px solid #eee;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+.post p 
+{
+	margin-bottom: 10px;
+}
+hr
+{
+	border: none;
+	height: 6px;
+	background: #ebebeb;
+	margin: 20px 0; 
+}
+.comment
+{
+	margin-bottom: 20px;
+	border: 1px solid #eee;
+	background: #f9f9f9;
+	width: 500px;
+	padding: 10px;
+}
+h4
+{
+	margin-bottom: 10px;
+}
+textarea
+{
+	width: 500px
+	height: 200px;
+}
